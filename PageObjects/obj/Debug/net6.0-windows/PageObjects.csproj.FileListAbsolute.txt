@@ -1,0 +1,12 @@
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\bin\Debug\net6.0-windows\PageObjects.deps.json
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\bin\Debug\net6.0-windows\PageObjects.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\bin\Debug\net6.0-windows\PageObjects.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.csproj.AssemblyReference.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.AssemblyInfoInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.AssemblyInfo.cs
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.csproj.CoreCompileInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\refint\PageObjects.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\PageObjects.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0-windows\ref\PageObjects.dll

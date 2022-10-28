@@ -1,0 +1,12 @@
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\bin\Debug\net6.0\Controls.deps.json
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\bin\Debug\net6.0\Controls.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\bin\Debug\net6.0\Controls.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.csproj.AssemblyReference.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.AssemblyInfoInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.AssemblyInfo.cs
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.csproj.CoreCompileInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\refint\Controls.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\Controls.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\Controls\obj\Debug\net6.0\ref\Controls.dll

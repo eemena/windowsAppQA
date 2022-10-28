@@ -1,0 +1,12 @@
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\bin\Debug\net6.0\DriverManager.deps.json
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\bin\Debug\net6.0\DriverManager.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\bin\Debug\net6.0\DriverManager.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.csproj.AssemblyReference.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.AssemblyInfoInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.AssemblyInfo.cs
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.csproj.CoreCompileInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\refint\DriverManager.dll
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\DriverManager.pdb
+C:\Users\fborges\source\repos\WpfTestingAutomation\DriverManager\obj\Debug\net6.0\ref\DriverManager.dll

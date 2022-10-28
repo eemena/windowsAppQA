@@ -1,0 +1,5 @@
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0\PageObjects.csproj.AssemblyReference.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0\PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0\PageObjects.AssemblyInfoInputs.cache
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0\PageObjects.AssemblyInfo.cs
+C:\Users\fborges\source\repos\WpfTestingAutomation\PageObjects\obj\Debug\net6.0\PageObjects.csproj.CoreCompileInputs.cache
